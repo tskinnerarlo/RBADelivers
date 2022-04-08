@@ -7,5 +7,5 @@ Defining ATT&CK Data Sources, Part I: Enhancing the Current State, by Jose Luis 
  Sysmon Learning Resources, Michael Haag \
            https://github.com/MHaggis/sysmon-dfir
     
- Sigm - Generic Signature Format for SIEM Systems \
+ Sigma- Generic Signature Format for SIEM Systems \
      https://github.com/SigmaHQ/sigma
