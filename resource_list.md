@@ -9,3 +9,10 @@ Defining ATT&CK Data Sources, Part I: Enhancing the Current State, by Jose Luis 
     
  Sigma- Generic Signature Format for SIEM Systems \
      https://github.com/SigmaHQ/sigma
+     
+ Center for threat informed defense - Attack-flow project \
+       https://ctid.mitre-engenuity.org/our-work/attack-flow/ \
+       https://github.com/center-for-threat-informed-defense/attack-flow \
+       https://github.com/center-for-threat-informed-defense/attack-flow/releases/tag/v1.0.0
+       
+  
