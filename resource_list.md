@@ -1,3 +1,6 @@
+Data Source Related Resources:
+##############################
+
 Defining ATT&CK Data Sources, Part I: Enhancing the Current State, by Jose Luis Rodriguez
        https://medium.com/mitre-attack/defining-attack-data-sources-part-i-4c39e581454f
        
@@ -7,12 +10,19 @@ Defining ATT&CK Data Sources, Part I: Enhancing the Current State, by Jose Luis 
  Sysmon Learning Resources, Michael Haag \
            https://github.com/MHaggis/sysmon-dfir
     
+       
+
+Content Development/Selection Resources:
+#######################################
+
+  ATT&CK Detections Collector - Collects a listing of ATT&CK techniques, then discovers ESCU detections for the technique. Results may be saved as HTML or for use with ATT&CK Navigator. \
+  https://github.com/splunk/attack-detections-collector
+    
  Sigma- Generic Signature Format for SIEM Systems \
      https://github.com/SigmaHQ/sigma
      
+  
  Center for threat informed defense - Attack-flow project \
        https://ctid.mitre-engenuity.org/our-work/attack-flow/ \
        https://github.com/center-for-threat-informed-defense/attack-flow \
        https://github.com/center-for-threat-informed-defense/attack-flow/releases/tag/v1.0.0
-       
-  
