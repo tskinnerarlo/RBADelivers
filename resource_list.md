@@ -1,4 +1,4 @@
-Data Source Related Resources:
+Data Source Related Resources: \
 ##############################
 
 Defining ATT&CK Data Sources, Part I: Enhancing the Current State, by Jose Luis Rodriguez
@@ -12,7 +12,7 @@ Defining ATT&CK Data Sources, Part I: Enhancing the Current State, by Jose Luis 
     
        
 
-Content Development/Selection Resources:
+Content Development/Selection Resources: \
 #######################################
 
   ATT&CK Detections Collector - Collects a listing of ATT&CK techniques, then discovers ESCU detections for the technique. Results may be saved as HTML or for use with ATT&CK Navigator. \
