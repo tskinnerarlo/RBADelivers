@@ -17,6 +17,9 @@ Content Development/Selection Resources: \
 
   ATT&CK Detections Collector - Collects a listing of ATT&CK techniques, then discovers ESCU detections for the technique. Results may be saved as HTML or for use with ATT&CK Navigator. \
   https://github.com/splunk/attack-detections-collector
+  
+ Getting Started with ATT&CK \
+       https://www.mitre.org/sites/default/files/publications/mitre-getting-started-with-attack-october-2019.pdf
     
  Sigma- Generic Signature Format for SIEM Systems \
      https://github.com/SigmaHQ/sigma
