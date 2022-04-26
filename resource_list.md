@@ -31,9 +31,10 @@ Content Development/Selection Resources: \
        https://github.com/center-for-threat-informed-defense/attack-flow/releases/tag/v1.0.0
 
 RBA Blogs and Talks: \
-###################       
-       Haylee Mills RBA Blog Series \
-       https://www.splunk.com/en_us/blog/security/risk-based-alerting-the-new-frontier-for-siem.html \
+################### 
+
+ Haylee Mills RBA Blog Series \
+       https://www.splunk.com/en_us/blog/security/risk-based-alerting-the-new-frontier-for-siem.html 
        
-       .conf Recording RBA Filter - \
+ .conf Recording RBA Filter - \
        https://conf.splunk.com/watch/conf-online.html?search=risk%20based%20alerting#/
